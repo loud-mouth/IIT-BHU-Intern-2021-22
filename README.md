@@ -7,8 +7,10 @@
 
  OR
  
-1. You can just fill this [form.](https://forms.gle/dt6Kgzw1PDDURo1G9)
+1. You can just fill this [form.](https://forms.gle/dt6Kgzw1PDDURo1G9). I'll take care of the rest.
 
 Please add any questions from coding round/interview round that you were present for this year. We are trying to make a collection so it's easier for people this year who haven't got an intern yet AND for people sitting for the intern season next year. For them, a lack of communication skills + TPC portal opening too late for most things might make things difficult for them. 
+
+Any half-questions also help. You don't need to be very exact with your responses.
 
 Thank you for helping!
