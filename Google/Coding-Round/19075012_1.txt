@@ -1,0 +1,7 @@
+Given a string S, of size N indexed from 1. Count total number of i1, i2, j1, j2, k1, k2 such that 
+
+A = s[i1..i2] (both inclusive),  
+B = s[j1..j2] (both inclusive), 
+C = s[k1..k2] (both inclusive)
+
+and A, B, C are palindromes, and i1 <= i2 < j1 <= j2 < k1 <= k2.
